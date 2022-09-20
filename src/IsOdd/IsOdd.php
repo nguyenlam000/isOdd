@@ -7,7 +7,7 @@ class IsOdd
 
   public static function isOdd($number)
   {
-    // Test
+    // Test release
     return $number & 1;
   }
 }
